@@ -1,0 +1,6 @@
+\contentsline {section}{\textbf {Mission Statement}}{2}{section*.2}
+\contentsline {section}{\textbf {Our Team}}{2}{section*.3}
+\contentsline {subsection}{\textbf {Team Charter}}{2}{section*.4}
+\contentsline {subsection}{\textbf {Responsiblity Matrix}}{2}{section*.5}
+\contentsline {subsection}{\textbf {Team Member Strengths and Weaknesses}}{2}{section*.6}
+\contentsline {subsection}{\textbf {Team Risks}}{3}{section*.7}
